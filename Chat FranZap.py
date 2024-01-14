@@ -1,4 +1,4 @@
-# Hashzap
+# Franzap
 # botao de iniciar chat
 # popup para entrar no chat
 # quando entrar no chat: (aparece para todo mundo)
